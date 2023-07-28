@@ -1,17 +1,31 @@
-### Hi there 👋
+###  Hey there, I'm Kajal Mishra!👋
 
-<!-----
-**kajal1301/kajal1301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- I'm a passionate data scientist| Data Analyst | Business Consultant with a strong interest in machine learning and deep learning. 
+- Business Consultant with 1.6 years of experience at Quation Solutions.
+- Data Scientist with 2 years of relevant experience in machine learning.
+- Problem-solving enthusiast with a strong LeetCode track record.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My journey in the world of data started during my college days, and I've been exploring and learning ever since.
 
----!>
+### Projects
+- 🤖 **Car damage detection**: Deployed a Object detection model using Mask-rcnn and deployed using flask and amazon EC2 instance to detect damage in car . Check it out [here](link-to-repo).
+- 📊 **News Summarization**: Developed a NLP pipeline for analysis sentiments in news article and summarize it. Repository available [here](link-to-repo).
+
+### Skills
+- Machine Learning
+- Deep Learning
+- Python
+- Data Visualization
+- Natural Language Processing (NLP)
+- Statistical Analysis
+- SQL
+- PowerBI
+- Amazon Redshift
+
+### Let's Connect
+I'm open to new opportunities and collaboration. Feel free to reach out via [email](kajal123m@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kajalmishra-1301/).
+
+Looking forward to connecting with fellow data enthusiasts and making an impact through data-driven insights!
+
