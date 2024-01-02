@@ -2,7 +2,7 @@
 
 ### About Me
 - I'm a passionate data scientist| Data Analyst | Business Consultant with a strong interest in machine learning and deep learning. 
-- Business Consultant with 1.6 years of experience at Quation Solutions.
+- Business Consultant with 2 years of experience at Quation Solutions.
 - Data Scientist with 2 years of relevant experience in machine learning.
 - Problem-solving enthusiast with a strong LeetCode track record.
 
