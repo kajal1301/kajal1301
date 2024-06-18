@@ -11,10 +11,10 @@ My journey in the world of data started during my college days, and I've been ex
 
 ### Projects
 - 🤖 **Car damage detection**: Deployed a Object detection model using Mask-rcnn and deployed using flask and amazon EC2 instance to detect damage in car . Check it out [here](link-to-repo).
-- 📊 **News Summarization**: Developed a NLP pipeline for analysis sentiments in news article and summarize it. Repository available [here](link-to-repo).
 - Human-Activity-Recognition :Predicts Activity of human based on accelerometer and gyroscope data
 - Gender and Age Detection
 ### Skills
+- Generative AI
 - Machine Learning
 - Deep Learning
 - Python
@@ -23,6 +23,7 @@ My journey in the world of data started during my college days, and I've been ex
 - Statistical Analysis
 - SQL
 - PowerBI
+- Tableau
 - Amazon Redshift
 
 ### Let's Connect
