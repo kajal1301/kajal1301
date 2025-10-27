@@ -34,18 +34,6 @@ Convert natural language questions into optimized SQL queries using advanced LLM
 - Support for multiple database engines
 - Performance optimization for large datasets
 
-**Performance Metrics:**
-- Accuracy: 87%+ exact match on complex queries
-- Speed: 2-3 seconds end-to-end response
-- Multi-table support: Up to 50+ table schemas
-- Cost: Optimized for < $0.05 per query
-
-**Real-World Use Cases:**
-- BI analysts generating reports instantly
-- Sales teams querying customer data
-- Finance department accessing ledger information
-- Automated reporting systems
-
 [View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/Projects/02_text_to_sql)
 
 ---
@@ -66,19 +54,6 @@ Intelligent agent that automatically audits, validates, and extracts critical in
 - Structured JSON output for system integration
 - Audit trail and compliance reporting
 
-**Performance Metrics:**
-- Accuracy: 94% fraud detection rate
-- Speed: 30-60 seconds per invoice
-- Volume: Process 1000+ invoices daily
-- ROI: 80% reduction in manual processing time
-- Compliance: 99.9% audit trail accuracy
-
-**Business Impact:**
-- Save 60+ hours/month in invoice processing
-- Prevent fraud losses (~2-5% of invoice volume)
-- Improve cash flow visibility
-- Automated compliance reporting
-
 [View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/Projects/01_invoice_auditor)
 
 ---
@@ -98,20 +73,7 @@ Intelligent system that automatically screens resumes, matches them against job 
 - Batch processing for large candidate pools
 - Customizable matching criteria
 - Detailed candidate report generation
-
-**Performance Metrics:**
-- Accuracy: 89% relevance matching
-- Speed: 5x faster than manual screening
-- Volume: Handle 500+ resumes per job posting
-- Coverage: 25% more qualified candidates identified
-- Time-to-hire: Reduce by 40-50%
-
-**Business Impact:**
-- Reduce screening time from 8 hours to ~2 hours
-- Identify 25% more qualified candidates
-- Improve hiring quality and retention
-- Standardized evaluation process
-
+- 
 [View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/Projects/03_resume_matcher)
 
 ---
@@ -132,21 +94,6 @@ Intelligent code assistant providing real-time code analysis, suggestions, and b
 - Security issue detection
 - Learning recommendations for developers
 - Integration with CI/CD pipelines
-
-**Performance Metrics:**
-- Accuracy: Catches 85%+ of common code issues
-- Speed: Instant feedback on code submissions
-- Volume: Handle 100+ code reviews daily
-- Learning: 30%+ improvement in developer code quality over time
-- Security: 92% detection rate for security vulnerabilities
-
-**Supported Languages:** Python, JavaScript, TypeScript, Java, Go, Rust, C++
-
-**Business Impact:**
-- Reduce code review time by 30%
-- Improve code quality consistency
-- Accelerate developer onboarding
-- Reduce production bugs by 20%
 
 [View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/Projects/04_CoderBuddy)
 
@@ -187,70 +134,12 @@ Each project includes setup instructions, example usage, architecture diagrams, 
 - Computer Vision: OpenCV, Pillow
 - Data: Pandas, NumPy, SQL
 
----
-
-## 📊 Impact & Results
-
-| Project | Problem | Solution | Impact |
-|---------|---------|----------|--------|
-| Text-to-SQL | Non-technical users can't access databases | AI-powered query generation | 87% accuracy, instant results |
-| Invoice Auditor | Manual invoice processing takes days | AI-powered validation & extraction | 80% time saved, 94% fraud detection |
-| Resume Matcher | Screening 500+ resumes manually | Semantic matching & ranking | 5x faster, 25% better candidates |
-| CoderBuddy | Code reviews are bottleneck | Real-time AI code analysis | 30% faster reviews, better quality |
-
----
-
-## 🎓 Learning Path & Evolution
-
-**Phase 1: Foundation (Year 1)**
-- Data Science fundamentals
-- Machine Learning algorithms
-- Deep Learning architectures
-
-**Phase 2: Production ML (Year 2-3)**
-- Model deployment and MLOps
-- Production ML systems
-- Computer Vision and NLP applications
-
-**Phase 3: Generative AI Transition (Year 4)**
-- LangChain fundamentals
-- Prompt engineering mastery
-- Basic RAG and embeddings
-
-**Phase 4: Advanced GenAI (Current)**
-- Multi-agent orchestration
-- Enterprise AI system design
-- Production-grade LLM applications
-- Complex workflow automation
-
----
-
-## 🌟 Why These Projects Matter
-
-✅ Full GenAI Stack: Shows mastery of modern LLM technologies
-✅ Real Business Value: Each agent solves actual enterprise problems
-✅ Production Ready: Not demos—scalable, secure systems
-✅ Diverse Applications: Finance, BI, HR, DevOps—shows versatility
-✅ Modern Architecture: LangChain, function calling, RAG, multi-agents
-✅ Measurable Impact: Specific metrics, ROI, and business results
-
----
-
-## 🔗 Let's Connect & Collaborate
+## 🔗 Let's Connect 
 
 **Get in Touch:**
 - LinkedIn: [linkedin.com/in/kajalmishra-1301](https://linkedin.com/in/kajalmishra-1301)
 - Email: kajal123m@gmail.com
 - GitHub: [github.com/kajal1301](https://github.com/kajal1301)
-
-**Open To:**
-- Collaborations on advanced GenAI projects and multi-agent systems
-- Consulting on AI agent architecture and LLM system design
-- Discussions on prompt engineering strategies and best practices
-- Partnerships building production GenAI applications at scale
-- Speaking/Writing on GenAI, AI agents, and practical LLM applications
-
----
 
 ## 🚀 Currently Exploring
 
@@ -261,16 +150,3 @@ Each project includes setup instructions, example usage, architecture diagrams, 
 - Federated agent networks for distributed systems
 
 ---
-
-## 📈 GitHub Stats
-
-- 4+ Production AI Agents deployed
-- Active in: GenAI, LangChain, Multi-agent systems
-- Focus: Building practical AI solutions for real business problems
-- Community: Open to collaboration and knowledge sharing
-
----
-
-## 🎯 Key Takeaways
-
-Building AI projects that solve real business problems using cutting-edge GenAI technology. Each project demonstrates deep understanding of LLMs, practical problem-solving, production-grade system design, measurable business impact, and modern architecture best practices.
