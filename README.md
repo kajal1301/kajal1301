@@ -46,7 +46,7 @@ Convert natural language questions into optimized SQL queries using advanced LLM
 - Finance department accessing ledger information
 - Automated reporting systems
 
-[View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/02_text_to_sql)
+[View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/Projects/02_text_to_sql)
 
 ---
 
@@ -79,7 +79,7 @@ Intelligent agent that automatically audits, validates, and extracts critical in
 - Improve cash flow visibility
 - Automated compliance reporting
 
-[View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/01_invoice_auditor)
+[View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/Projects/01_invoice_auditor)
 
 ---
 
@@ -112,7 +112,7 @@ Intelligent system that automatically screens resumes, matches them against job 
 - Improve hiring quality and retention
 - Standardized evaluation process
 
-[View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/03_resume_matcher)
+[View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/Projects/03_resume_matcher)
 
 ---
 
@@ -148,7 +148,7 @@ Intelligent code assistant providing real-time code analysis, suggestions, and b
 - Accelerate developer onboarding
 - Reduce production bugs by 20%
 
-[View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/04_CoderBuddy)
+[View Full Project →](https://github.com/kajal1301/my-agents-hub/tree/main/Projects/04_CoderBuddy)
 
 ---
 
